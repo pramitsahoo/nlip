@@ -1,6 +1,6 @@
 ---
 title: Contact US
-permalink: /contact/
+permalink: /nlip/contact/
 ---
 
 <h3 id="#contact">Contact Us</h3>

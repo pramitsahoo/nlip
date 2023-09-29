@@ -1,6 +1,6 @@
 ---
 title: Publications
-permalink: /publication/
+permalink: /nlip/publication/
 ---
 <style>
 .button {

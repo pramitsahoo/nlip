@@ -1,6 +1,6 @@
 ---
 title: News
-permalink: /news/
+permalink: /nlip/news/
 ---
 
 {%- for y in site.news_years %}

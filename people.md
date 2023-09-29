@@ -1,6 +1,6 @@
 ---
 title: People
-permalink: /people/
+permalink: /nlip/people/
 ---
 
 {% assign people_sorted = site.people | sort: 'joined' %}

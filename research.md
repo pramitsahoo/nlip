@@ -1,6 +1,6 @@
 ---
 title: Research
-permalink: /research/
+permalink: /nlip/research/
 ---
 
 <!-- <style>

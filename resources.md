@@ -1,6 +1,6 @@
 ---
 title: Resources
-permalink: /resources/
+permalink: /nlip/resources/
 ---
 
 ## Lab Resources

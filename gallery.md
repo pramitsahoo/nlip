@@ -1,6 +1,6 @@
 ---
 title: Gallery
-permalink: /gallery/
+permalink: /nlip/gallery/
 ---
 
 <style>

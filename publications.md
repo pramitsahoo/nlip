@@ -69,7 +69,7 @@ permalink: /publication/
   <div class="clear-fix mt-3">
     <div class="col">
        {% if publi.img != "" %}
-        <img src="/publications/images/{{ publi.img }}" class="col-md-6 float-md-end mb-3 ms-md-3 img-fluid" style="float:left;width:40%" />
+        <img src="/nlip/publications/images/{{ publi.img }}" class="col-md-6 float-md-end mb-3 ms-md-3 img-fluid" style="float:left;width:40%" />
        {% endif %}
     <!-- <div class="col m-2"> -->
       {% if publi.summary %}
@@ -154,7 +154,7 @@ permalink: /publication/
   {% if publi.key %}
   <p id="{{publi.key}}-bibtex" class="collapse" style="border-style: dashed; border-color:#eee">
 
-  <object data="/publications/references/{{publi.key}}.txt" width="100%" style="overflow: auto;"></object>
+  <object data="/nlip/publications/references/{{publi.key}}.txt" width="100%" style="overflow: auto;"></object>
   </p>
   {% endif %}
   </div>

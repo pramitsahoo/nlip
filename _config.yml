@@ -33,7 +33,7 @@ research_dropdown: true
 # Navigation
 nav:
   - name:           "home"
-    href:           "/"
+    href:           "/nlip"
 
   - name:           "research"
     href:           "/nlip/research"
@@ -77,7 +77,7 @@ defaults:
       layout:       "post"
   -
     scope:
-      path:         "/nlip/people"
+      path:         "people"
       type:         "people"
     values:
       layout:       "profile"

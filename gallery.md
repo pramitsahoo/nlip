@@ -1,6 +1,6 @@
 ---
 title: Gallery
-permalink: /nlip/gallery/
+permalink: /gallery/
 ---
 
 <style>
@@ -167,7 +167,7 @@ var totalImages = {{site.image_count}}
 
 for (var i = 1; i < totalImages; i++) {
   images.push({
-    source: "/images/gallery/"+i+".jpg"
+    source: "/nlip/images/gallery/"+i+".jpg"
   });    
 
 }

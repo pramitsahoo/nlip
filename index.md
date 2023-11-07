@@ -1,9 +1,8 @@
 ---
 layout: default
+permalink: /
+title: NLIP
 ---
-<title>
-  {{site.acronym}}
-</title>
 <style>
   .carousel {
       border-radius: 10px 10px 10px 10px;
@@ -25,7 +24,7 @@ layout: default
 <div class="container mt-5">
   <div style="text-align: center;">
     <h2 style="color: rgb(65, 65, 65);">{{site.title}}</h2>
-    </div>
+  </div>
     
     <span style="display: block; margin-bottom: 3em"></span>
 
@@ -240,8 +239,4 @@ layout: default
     </div>
 
     </div> 
-
-
 </div>
-</body>
-</html>

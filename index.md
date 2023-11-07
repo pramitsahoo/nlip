@@ -41,23 +41,12 @@ title: NLIP
           <li data-bs-target="#myCarousel" data-bs-slide-to="5"></li>
           <li data-bs-target="#myCarousel" data-bs-slide-to="6"></li>
           <li data-bs-target="#myCarousel" data-bs-slide-to="7"></li>
-          <li data-bs-target="#myCarousel" data-bs-slide-to="8"></li>
-          <!-- <li data-bs-target="#myCarousel" data-bs-slide-to="9"></li> -->
-          <!-- <li data-bs-target="#myCarousel" data-bs-slide-to="8"></li> -->
         </ol>
     
         <div class="carousel-inner">
 
-          <div class="carousel-item active">
-            <img src="images/carousel/10.jpeg" style="width:100%;">
-          </div>
-
-          <!-- <div class="carousel-item">
-            <img src="images/carousel/11.jpeg" style="width:100%;">
-          </div> -->
-
           <!-- Carousel 0 -->
-          <div class="carousel-item">
+          <div class="carousel-item active">
             <img src="images/carousel/7.JPG"  style="width:100%;">
           </div>
           

@@ -4,8 +4,8 @@ title:              "NLIP: Natural Language and Information Processing Lab"
 description:        "NLIP Lab is a young and dynamic research group as part of the Department of Computer Science and Engineering at Indian Institute of Technology Hyderabad. We are committed to pushing the frontiers of Natural Language Processing (NLP), Information Retrieval (IR), and related domains through cutting-edge research and development. We collaborate closely with academic institutions, industry partners, and other research groups to drive innovation in these fields. Our focus is on developing efficient and effective algorithms, models, and systems that can scale to real-world applications. We also strive to make our research accessible and impactful by publishing our findings in top-tier conferences and journals, and by open-sourcing our software and datasets."
 
 # URL
-url:                nlip-lab.github.io/nlip
-baseurl:            
+url:                
+baseurl:           /nlip
 permalink:          /:year/:month/:day/:title.html
 
 # Markdown
@@ -33,7 +33,7 @@ research_dropdown: true
 # Navigation
 nav:
   - name:           "home"
-    href:           "/nlip"
+    href:           "/nlip/"
 
   - name:           "research"
     href:           "/nlip/research"
@@ -85,7 +85,7 @@ defaults:
 collections:
   people:
     output: true
-    permalink: /people/:title/index.html
+    permalink: people/:title/index.html
 
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.

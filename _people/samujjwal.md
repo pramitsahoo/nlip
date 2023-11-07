@@ -5,6 +5,7 @@ avatar: samujjwal.jpg
 joined: 2016
 affiliation: Machine Learning Engineer, <br>Intel
 title: Samujjwal Ghosh
+layout: profile
 ---
 
 <img width="250" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">

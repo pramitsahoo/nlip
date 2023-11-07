@@ -5,6 +5,7 @@ avatar: kaushiki.JPG
 linkedin: www.linkedin.com/in/kaushiki-dwivedi-10k6
 joined: 2021
 title: Kaushiki Dwivedi
+layout: profile
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">

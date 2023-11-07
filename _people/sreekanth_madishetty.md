@@ -6,6 +6,7 @@ twitter:
 joined: 2015
 affiliation: Research Scientist, <br> Jio Platforms Limited
 title: Sreekanth Madisetty
+layout: profile
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">

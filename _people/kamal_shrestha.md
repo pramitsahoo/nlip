@@ -6,6 +6,7 @@ github: https://github.com/shresthakamal
 linkedin: https://www.linkedin.com/in/kamalshrest/
 joined: 2021
 title: Kamal Shrestha
+layout: profile
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">

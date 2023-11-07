@@ -5,6 +5,7 @@ avatar: maharaj.JPG
 twitter: 
 joined: 2023
 title: Maharaj Brahma
+layout: profile
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">

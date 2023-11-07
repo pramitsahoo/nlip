@@ -5,6 +5,7 @@ avatar: dhwani.jpg
 twitter: 
 joined: 2022
 title: Dhwani Natvarbhai Jakhaniya
+layout: profile
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">

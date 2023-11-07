@@ -5,6 +5,7 @@ avatar: debolena.JPG
 twitter:
 joined: 2020
 title: Debolena Basak
+layout: profile
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">

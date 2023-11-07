@@ -5,6 +5,7 @@ avatar: shrey.JPG
 twitter:
 joined: 2022
 title: Shrey Satapara
+layout: profile
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">

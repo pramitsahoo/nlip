@@ -5,6 +5,7 @@ avatar: kaushal.jpg
 twitter: 
 joined: 2018
 title: Kaushal Kumar Maurya
+layout: profile
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">

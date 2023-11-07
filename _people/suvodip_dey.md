@@ -4,6 +4,7 @@ position: phd
 avatar: suvodip.JPG
 joined: 2019
 title: Suvodip Dey
+layout: profile
 ---
  
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">

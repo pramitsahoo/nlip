@@ -4,6 +4,7 @@ position: professor
 avatar: maunendra.JPG
 twitter: 
 title: Maunendra Sankar Desarkar
+layout: profile
 ---
 
  <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom"> 

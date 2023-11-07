@@ -6,6 +6,7 @@ twitter:
 joined: 2017
 affiliation: Postdoctoral Associate, <br> University of Manchester
 title: Manisha Dubey
+layout: profile
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">

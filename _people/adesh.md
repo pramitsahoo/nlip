@@ -5,6 +5,7 @@ avatar: adesh.jpg
 twitter: 
 joined: 2022
 title: Adesh Gupta
+layout: profile
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">

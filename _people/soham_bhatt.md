@@ -4,6 +4,7 @@ position: masters
 avatar: soham.JPG
 twitter: 
 joined: 2021
+layout: profile
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">

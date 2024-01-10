@@ -47,45 +47,45 @@ title: NLIP
 
           <!-- Carousel 0 -->
           <div class="carousel-item active">
-            <img src="images/carousel/7.JPG"  style="width:100%;">
+            <img src="{{site.baseurl}}/images/carousel/7.JPG"  style="width:100%;">
           </div>
           
           <!-- Carousel 1 -->
           <div class="carousel-item">
-            <img src="images/carousel/9.JPG"  style="width:100%;">
+            <img src="{{site.baseurl}}/images/carousel/9.JPG"  style="width:100%;">
           </div>
 
           <!-- Carousel 2 -->
           <div class="carousel-item">
-            <img src="images/carousel/8.JPG"  style="width:100%;">
+            <img src="{{site.baseurl}}/images/carousel/8.JPG"  style="width:100%;">
           </div>
           
           <!-- Carousel 3 -->
           <div class="carousel-item">
-            <img src="images/carousel/6.JPG"  style="width:100%;">
+            <img src="{{site.baseurl}}/images/carousel/6.JPG"  style="width:100%;">
           </div>
           <!-- Carousel 4 -->
           <div class="carousel-item">
-            <img src="images/carousel/5.jpg"  style="width:100%;">
+            <img src="{{site.baseurl}}/images/carousel/5.jpg"  style="width:100%;">
           </div>
 
           <!-- Carousel 5 -->
           <div class="carousel-item">
-            <img src="images/carousel/3.png" style="width:100%;">
+            <img src="{{site.baseurl}}/images/carousel/3.png" style="width:100%;">
           </div>
           <!-- Carousel 7 -->
           <div class="carousel-item">
-            <img src="images/carousel/2.png" style="width:100%;">
+            <img src="{{site.baseurl}}/images/carousel/2.png" style="width:100%;">
           </div>
 
           <div class="carousel-item">
-            <img src="images/carousel/1.jpg" style="width:100%;">
+            <img src="{{site.baseurl}}/images/carousel/1.jpg" style="width:100%;">
           </div>
 
           
 
           <!-- <div class="carousel-item"> -->
-            <!-- <img src="images/carousel/4.JPG" style="width:100%;"> -->
+            <!-- <img src="{{site.baseurl}}/images/carousel/4.JPG" style="width:100%;"> -->
           <!-- </div> -->
           
         </div>

@@ -107,9 +107,9 @@ title: NLIP
       <div class="row text-center" style="margin: 10px; padding: 10px; text-align: center;">
         <!-- Connect with us: -->
           <div>
-            <a href="mailto:nlip@cse.iith.ac.in"><i class="fa fa-envelope-o"></i> Email</a>
+            <i class="fa fa-envelope-o" style="color: #268bd2"></i> <a href="mailto:nlip@cse.iith.ac.in">Email</a>
             <span style="margin-right: 10px;"></span>
-            <a href="https://github.com/nlip-lab/"><i class="fa fa-github"></i> NLIPLab</a>&nbsp;&nbsp;&nbsp;
+            <i class="fa fa-github" style="color: #268bd2"></i> <a href="https://github.com/nlip-lab/">NLIP Lab</a>&nbsp;&nbsp;&nbsp;
           </div>
         <!-- <a href="https://twitter.com/KordingLab"><i class="fa fa-twitter"></i> LiKELab</a>&nbsp;&nbsp;&nbsp; -->
       </div>
@@ -119,7 +119,7 @@ title: NLIP
     <div class="w3-container" style="   background: #f0f8ff; padding: 25px; border-radius:10px; border: 1px solid #5d8aa8">
       <div style="text-align:left">
         <h3> Recent News </h3>
-        <span style="display: block; margin-bottom: 2em"></span>
+        <span style="display: block; margin-bottom: 1em"></span>
 
         <div class="news">
 

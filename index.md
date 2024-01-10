@@ -3,24 +3,6 @@ layout: default
 permalink: /
 title: NLIP
 ---
-<style>
-  .carousel {
-      border-radius: 10px 10px 10px 10px;
-      overflow: hidden;
-  }
-  .grid-container {
-  display: grid;
-  gap: 5px;
-  grid-template-columns: auto auto auto auto;
-  padding: 10px;
-  }
-  .grid-item {
-    padding: 10px;
-    text-align: center;
-  }
-
-</style>
-
 <div class="container mt-5">
   <div style="text-align: center;">
     <h2 style="color: rgb(65, 65, 65);">{{site.title}}</h2>

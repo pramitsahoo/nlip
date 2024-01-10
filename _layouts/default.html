@@ -36,8 +36,21 @@
   <meta property="og:site_name" content="{{ site.title }}">
   <meta property="og:description" content="{{ description | strip_html | condense_spaces | truncate:150 }}" />
   <meta property="og:image" content="/nlip/images/logo/logo_square.jpg">
-
   <style>
+    .carousel {
+        border-radius: 10px 10px 10px 10px;
+        overflow: hidden;
+    }
+    .grid-container {
+    display: grid;
+    gap: 5px;
+    grid-template-columns: auto auto auto auto;
+    padding: 10px;
+    }
+    .grid-item {
+      padding: 10px;
+      text-align: center;
+    }
     /* footer.sticky-bottom {
       text-align: center;
       font-size: 0.6rem;

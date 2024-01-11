@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /
-title: NLIP
+title: Natural Language and Information Processing Lab - NLIP
 ---
 <div class="container mt-5">
   <div style="text-align: center;">

@@ -4,7 +4,7 @@ permalink: /people/
 ---
 
 {% assign people_sorted = site.people | sort: 'joined' %}
-{% assign role_array = "professor|postdoc|phd|masters|researchstaff|visiting|others|alumni" | split: "|" %}
+{% assign role_array = "professor|postdoc|phd|masters|researchstaff|visiting|others|alumni|mtechalumni" | split: "|" %}
 
 {% for role in role_array %}
 
@@ -21,7 +21,9 @@ permalink: /people/
  {% elsif role == 'professor' %}
 <h3>Faculty</h3>
  {% elsif role == 'masters' %}
-<h3>M.Tech Students</h3>
+<h3>M.Tech. Students</h3>
+{% elsif role == 'mtechalumni' %}
+<h3>M.Tech. Alumni Students</h3>
  {% elsif role == 'researchstaff' %}
 <h3>Research Staff</h3>
  {% elsif role == 'visiting' %}>

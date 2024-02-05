@@ -1,6 +1,6 @@
 ---
 name: Kamal Shrestha
-position: masters
+position: mtechalumni
 avatar: kamal.JPG
 github: https://github.com/shresthakamal
 linkedin: https://www.linkedin.com/in/kamalshrest/

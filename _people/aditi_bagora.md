@@ -1,6 +1,6 @@
 ---
 name: Aditi Bagora
-position: masters
+position: mtechalumni
 avatar: aditi.JPG
 twitter: 
 joined: 2021

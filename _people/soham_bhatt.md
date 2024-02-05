@@ -1,6 +1,6 @@
 ---
 name: Soham Bhatt
-position: masters
+position: mtechalumni
 avatar: soham.JPG
 twitter: 
 joined: 2021

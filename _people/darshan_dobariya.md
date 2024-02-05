@@ -1,6 +1,6 @@
 ---
 name: Darshan Dobariya
-position: masters
+position: mtechalumni
 avatar: darshan.JPG
 twitter: 
 joined: 2021

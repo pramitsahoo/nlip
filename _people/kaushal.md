@@ -1,9 +1,10 @@
 ---
-name: Kaushal Kumar Maurya
-position: phd
+name: Dr. Kaushal Kumar Maurya
+position: others
 avatar: kaushal.jpg
 twitter: 
 joined: 2018
+affiliation: Postdoc at <br> Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)
 title: Kaushal Kumar Maurya
 layout: profile
 ---

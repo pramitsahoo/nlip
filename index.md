@@ -162,6 +162,62 @@ title: Natural Language and Information Processing Lab - NLIP
 
     <span style="display: block; margin-bottom: 1em"></span>
 
+    <!-- Media Coverage SECTION -->
+    <div class="w3-container" style="   background: #ffeadf; padding: 25px; border-radius:10px; border: 1px solid #f7af89">
+      <div style="text-align:left">
+        <h3> Media Coverage </h3>
+        <span style="display: block; margin-bottom: 1em"></span>
+
+        <div class="news">
+
+              {%assign count = 0%}
+              {% for new in site.data.media %}
+
+                {%if new.month==1%}{%assign month="January"%}{%endif%}
+                {%if new.month==2%}{%assign month="February"%}{%endif%}
+                {%if new.month==3%}{%assign month="March"%}{%endif%}
+                {%if new.month==4%}{%assign month="April"%}{%endif%}
+                {%if new.month==5%}{%assign month="May"%}{%endif%}
+                {%if new.month==6%}{%assign month="June"%}{%endif%}
+                {%if new.month==7%}{%assign month="July"%}{%endif%}
+                {%if new.month==8%}{%assign month="August"%}{%endif%}
+                {%if new.month==9%}{%assign month="September"%}{%endif%}
+                {%if new.month==10%}{%assign month="October"%}{%endif%}
+                {%if new.month==11%}{%assign month="November"%}{%endif%}
+                {%if new.month==12%}{%assign month="December"%}{%endif%}
+
+                {%if new.details%}
+
+                {%assign count = count | plus: 1%}
+                  {%if count > site.number_of_media_in_homepage%}
+                    {%break%}
+                  {%endif%}
+
+                  <!-- <div class="row" style="overflow: hidden;">
+                    <column style="float:left; width:160px; text-align:left; padding-right:2px">
+                      <b>{{month}} {{new.day}}, {{new.year}}</b>
+                    </column>
+                    <column class="d-none d-sm-block" style="float:left; width:10px; text-align:right; padding-right:15px">
+                      <b>:</b>
+                    </column>
+                    <column style="float:left; width: 600px; text-align:justify;"><p>{{ new.details }}</p></column>
+                  </div>   -->
+                  <div class="row" style="overflow: hidden;">
+                    <div class="mb-2">
+                      <div style="display: inline; max-width: 300px;"><b>{{month}} {{new.day}}, {{new.year}}</b></div>
+                      <span>:</span>
+                      <span>{{ new.details }}</span>
+                    </div>
+                  </div>  
+                  {%endif%}
+              {% endfor %}
+            <!-- </ul> -->
+        </div>
+        
+      </div >
+      
+    </div>
+    <!-- ---------- -->
 
     <!-- LAB CULTURE -->
     <div class="p-2" >
@@ -210,4 +266,6 @@ title: Natural Language and Information Processing Lab - NLIP
     </div>
 
     </div> 
+
+    
 </div>

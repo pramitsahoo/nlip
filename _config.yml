@@ -44,8 +44,11 @@ nav:
   - name:           "people"
     href:           "/nlip/people"
 
-  - name:           "resources"
-    href:           "/nlip/resources"
+  - name:           "Reading Group"
+    href:           "/nlip/reading-group"
+
+  # - name:           "resources"
+  #   href:           "/nlip/resources"
 
   - name:           "Gallery"
     href:           "/nlip/gallery"

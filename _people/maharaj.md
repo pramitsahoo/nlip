@@ -22,7 +22,7 @@ layout: profile
 <div class="col-1" style="width:5px">
     <a href="mailto:cs23resch01004@iith.ac.in" target="_blank"><samp>cs23resch01004@iith.ac.in</samp></a>
     <span style="display: block; margin-bottom: 0.5em"></span>
-    <a href="" target="_blank"><samp>Homepage</samp></a><br>
+    <a href="https://maharajbrahma.github.io" target="_blank"><samp>Homepage</samp></a><br>
     <span style="display: block; margin-bottom: 0.5em"></span>
 </div>
 </div>

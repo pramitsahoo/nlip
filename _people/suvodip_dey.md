@@ -1,9 +1,10 @@
 ---
 name: Suvodip Dey
-position: phd
+position: others
 avatar: suvodip.JPG
 joined: 2019
 title: Suvodip Dey
+affiliation: Postdoc at University of Illinois Urbana-Champaign
 layout: profile
 ---
  

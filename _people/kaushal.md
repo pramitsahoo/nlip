@@ -4,7 +4,7 @@ position: others
 avatar: kaushal.jpg
 twitter: 
 joined: 2018
-affiliation: Postdoc at <br> Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)
+affiliation: Postdoc at <br> MBZUAI
 title: Kaushal Kumar Maurya
 layout: profile
 ---

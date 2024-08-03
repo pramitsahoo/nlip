@@ -1,6 +1,6 @@
 ---
 name: Adesh Gupta
-position: masters
+position: mtechalumni
 avatar: adesh.jpg
 twitter: 
 joined: 2022

@@ -1,6 +1,6 @@
 ---
 name: Dhwani Natvarbhai Jakhaniya
-position: masters
+position: mtechalumni
 avatar: dhwani.jpg
 twitter: 
 joined: 2022

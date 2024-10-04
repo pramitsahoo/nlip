@@ -204,6 +204,94 @@
 <div class="container mb-2">
 <div class="row card card-body" style="background-color: #fcfbfb;">
   <div class="row">
+    <h6 class="">BoK: Introducing Bag-of-Keywords Loss for Interpretable Dialogue Response Generation</h6>
+    <span style="color: #363636;">[September, 2024]</span>
+  </div>
+  <div class="clear-fix mt-3">
+    <div class="col">
+       
+        <img src="/nlip/publications/images/bok.png" class="col-md-6 float-md-end mb-3 ms-md-3 img-fluid" style="float:left;width:40%" />
+       
+    <!-- <div class="col m-2"> -->
+      
+        <p style="font-size:14px; text-align:justify;">The standard language modeling (LM) loss by itself has been shown to be inadequate for effective dialogue modeling. As a result, various training approaches, such as auxiliary loss functions and leveraging human feedback, are being adopted to enrich open-domain dialogue systems. One such auxiliary loss function is Bag-of-Words (BoW) loss, defined as the cross-entropy loss for predicting all the words/tokens of the next utterance. In this work, we propose a novel auxiliary loss named Bag-of-Keywords (BoK) loss to capture the central thought of the response through keyword prediction and leverage it to enhance the generation of meaningful and interpretable responses in open-domain dialogue systems. BoK loss upgrades the BoW loss by predicting only the keywords or critical words/tokens of the next utterance, intending to estimate the core idea rather than the entire response. We incorporate BoK loss in both encoder-decoder (T5) and decoder-only (DialoGPT) architecture and train the models to minimize the weighted sum of BoK and LM (BoK-LM) loss. We perform our experiments on two popular open-domain dialogue datasets, DailyDialog and Persona-Chat. We show that the inclusion of BoK loss improves the dialogue generation of backbone models while also enabling post-hoc interpretability. We also study the effectiveness of BoK-LM loss as a reference-free metric and observe comparable performance to the state-of-the-art metrics on various dialogue evaluation datasets.</p>
+
+        <p class="authors" style="font-size:14px;">Suvodip Dey, Maunendra Sankar Desarkar</p>
+
+        <p style=" font-size:14px;">25th Annual Meeting of the Special Interest Group on Discourse and Dialogue (SIGDIAL 2024)</p>
+            
+    </div>
+
+
+  <div class="row" style="margin-left: 0px">
+    <ul class="nav">
+      <!-- ABSTRACT -->
+      
+      <li class="nav-item item">
+        <a data-bs-toggle="collapse" href="#bok-abstract">
+        <button class="button button1"><b>ABSTRACT</b></button>
+        </a>
+      </li>
+      
+
+      <!-- URL -->
+      
+        <li class="nav-item item">
+          <a href="https://aclanthology.org/2024.sigdial-1.48/" target="_blank">
+            <button class="button button1"><b>URL</b></button>
+          </a>
+        </li>
+      
+
+      <!-- URL -->
+      
+        <li class="nav-item item">
+          <a href="https://aclanthology.org/2024.sigdial-1.48.pdf" target="_blank">
+            <button class="button button1"><b>PDF</b></button>
+          </a>
+        </li>
+      
+
+      <!-- CODE -->
+      
+        <li class="nav-item item"> 
+          <a href="https://github.com/SuvodipDey/BoK" target="_blank">
+            <button class="button button1"><b>CODE</b></button>
+          </a>
+        </li>
+      
+
+      <!-- BIBTEX -->
+      
+
+      <!-- VIDEO -->
+      
+
+      </ul>
+
+  </div>
+
+  <div class="row">
+  
+
+  
+  <p id="bok-abstract" class="collapse p-2" style="border-style: dashed; text-align:justify; border-color: #eee">The standard language modeling (LM) loss by itself has been shown to be inadequate for effective dialogue modeling. As a result, various training approaches, such as auxiliary loss functions and leveraging human feedback, are being adopted to enrich open-domain dialogue systems. One such auxiliary loss function is Bag-of-Words (BoW) loss, defined as the cross-entropy loss for predicting all the words/tokens of the next utterance. In this work, we propose a novel auxiliary loss named Bag-of-Keywords (BoK) loss to capture the central thought of the response through keyword prediction and leverage it to enhance the generation of meaningful and interpretable responses in open-domain dialogue systems. BoK loss upgrades the BoW loss by predicting only the keywords or critical words/tokens of the next utterance, intending to estimate the core idea rather than the entire response. We incorporate BoK loss in both encoder-decoder (T5) and decoder-only (DialoGPT) architecture and train the models to minimize the weighted sum of BoK and LM (BoK-LM) loss. We perform our experiments on two popular open-domain dialogue datasets, DailyDialog and Persona-Chat. We show that the inclusion of BoK loss improves the dialogue generation of backbone models while also enabling post-hoc interpretability. We also study the effectiveness of BoK-LM loss as a reference-free metric and observe comparable performance to the state-of-the-art metrics on various dialogue evaluation datasets.</p>
+  
+
+  
+  <p id="bok-bibtex" class="collapse" style="border-style: dashed; border-color:#eee">
+
+  <object data="/nlip/publications/references/bok.txt" width="100%" style="overflow: auto;"></object>
+  </p>
+  
+  </div>
+  </div>
+  </div>
+  </div>
+
+<div class="container mb-2">
+<div class="row card card-body" style="background-color: #fcfbfb;">
+  <div class="row">
     <h6 class="">DAC: Quantized Optimal Transport Reward-based Reinforcement Learning Approach to Detoxify Query Auto-Completion</h6>
     <span style="color: #363636;">[July, 2024]</span>
   </div>
@@ -1252,6 +1340,10 @@
 <p><!-- <span style="display: block; margin-bottom: 2 em"></span> --></p>
 
 <div style="text-align:justify; padding: 15px;  border-radius:5px; border: 1px solid #5d8aa8; margin-bottom:5px;">
+      Suvodip Dey, Maunendra Sankar Desarkar. <a href="https://aclanthology.org/2024.sigdial-1.48/" style="text-decoration:none;" target="_blank">BoK: Introducing Bag-of-Keywords Loss for Interpretable Dialogue Response Generation</a>. 25th Annual Meeting of the Special Interest Group on Discourse and Dialogue (SIGDIAL 2024).
+  </div>
+
+<div style="text-align:justify; padding: 15px;  border-radius:5px; border: 1px solid #5d8aa8; margin-bottom:5px;">
       Aishwarya Maheswaran, Kaushal Kumar Maurya, Manish Gupta, Maunendra Sankar Desarkar. <a href="" style="text-decoration:none;" target="_blank">DAC: Quantized Optimal Transport Reward-based Reinforcement Learning Approach to Detoxify Query Auto-Completion</a>. 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2024).
   </div>
 
@@ -1464,7 +1556,7 @@ for (i = 0; i < coll.length; i++) {
   <span style="display: block; margin-bottom: 2em"></span>
   <div class="container">
     <!-- &copy; Copyright 2024 NLIP Lab, All Rights Reserved.
-    <br> -->Last updated: August 03, 2024.
+    <br> -->Last updated: October 04, 2024.
     <br>
     Website template inspired from <a href="https://kordinglab.com/">Kording Lab</a><br>
   </div>

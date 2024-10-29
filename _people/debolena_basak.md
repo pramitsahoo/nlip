@@ -22,7 +22,7 @@ layout: profile
 <div class="col-1" style="width:5px">
     <a href="mailto:ai20resch11003@iith.ac.in" target="_blank"><samp>ai20resch11003@iith.ac.in</samp></a>
     <span style="display: block; margin-bottom: 0.5em"></span>
-    <a href="" target="_blank"><samp>Homepage</samp></a><br>
+    <a href="https://sites.google.com/iith.ac.in/debolena/home" target="_blank"><samp>Homepage</samp></a><br>
     <span style="display: block; margin-bottom: 0.5em"></span>
 </div>
 </div>

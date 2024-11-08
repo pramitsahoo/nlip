@@ -30,13 +30,12 @@ layout: profile
 
 ### Bio:
 <p style="text-align: justify">
-Shrey is a M.Tech. student under the Dept. of AI, IIT Hyderabad. He is deeply passionate about exploring the intersections of Deep Learning, Natural Language Processing, he is also interested in Explainable AI and role of causality in machine learning and the ways in which it can enhance the interpretability and reliability of models. With a focus on cutting-edge research and practical applications, he have previously worked on projects related to hate and offensive speech detection in Indo-Aryan languages, as well as text summarization for Indian languages. 
+Shrey is an M.Tech. Student under the Dept. of AI, IIT Hyderabad. He is deeply passionate about exploring the intersections of Deep Learning, Natural Language Processing, he is interested in multilingual NLP. With a focus on continual learning and cross-lingual transfer in NLP. He has previously worked on projects related to hate and offensive speech detection in Indo-Aryan languages and text summarization for Indian languages.
 
-<!-- These experiences have given me valuable insights into the challenges and opportunities of developing NLP tools and applications that cater to the needs of diverse linguistic and cultural backgrounds. -->
 </p>
 
 ### Research Interests:
 - Deep Learning
-- Natural Language Processing
-- Explainable AI
-- Causality in ML
+- Natural Language Generation
+- Continual Learning
+- Low Resource NLP
